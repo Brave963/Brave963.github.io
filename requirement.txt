@@ -1,0 +1,1174 @@
+我有一个网页，我希望能将网页里面的其中一个部分替换成一个新的页面，这是网页里面的其中那一个部分，我希望你能通过这个div标签下的图片链接来锁定这个div，然后连同这个div标签下所有东西删除替换成另外一个新的页面， 因为其他的很多个class名都和这个class名一样，所以你不能通过class名来锁定我想替换的div标签，这是我想替换的那一部分：<div><div class="_8jGYJw" style="width: 1716px; height: 862px;"><div class="fMSICA h517IA" aria-hidden="false"><div class="_5yhCRQ"><div class="onhyOQ" style="width: 1716px; height: 862px; align-items: center;"><div class="twbtjQ"><div class="GDnEHQ" style="width: 1716px; height: 862px; background-color: rgb(255, 255, 255);"><div class="o2Yl2g"><div class="_mXnjA" lang="zh-TW" style="width: 1716px; height: 862px;"><div class="_6t4CHA"><div class="a26Xuw"><div class="fbzKiw" style="background: rgb(255, 255, 255);"></div></div></div><div style="position: absolute; top: 86.2px; left: 86.2px; width: 1543.6px; height: 689.6px;"></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 23.6087px; height: 1366px; transform: translate(846.196px, -671.198px) rotate(90deg) scale(1.00002, 1.00002);"><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 1366px; width: 23.6087px; transform: scale(1);"><div class="hWv4NA" style="width: 23.6087px; height: 1366px; margin-left: 0px; margin-top: 0px;"><svg class="_7KaXww"><defs><clipPath id="__id27"><path d="M0,0L288,0L288,16663.684808267088L0,16663.684808267088Z"></path></clipPath></defs></svg><div class="bFnJ2A" style="clip-path: url(&quot;#__id27&quot;); width: 288px; height: 16663.7px; transform: scale(0.0819747, 0.0819747); transform-origin: 0px 0px;"><div class="Ms_IOA"><svg class="_KMJVg" role="presentation" viewBox="0 0 288 16663.685" preserveAspectRatio="xMidYMid slice"><defs><linearGradient gradientUnits="userSpaceOnUse" id="__id28__id29" x1="0" y1="8331.842" x2="288" y2="8331.842"><stop stop-color="#a6a6a6" stop-opacity="1" offset="0"></stop><stop stop-color="#ffffff" stop-opacity="1" offset="1"></stop></linearGradient></defs><rect x="0" y="0" width="288" height="16663.685" fill="url(#__id28__id29)"></rect></svg></div></div></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 972.2px; height: 101.608px; transform: translate(-94.8724px, -0.00220531px) scale(1.00002, 1.00002);"><div class="aF9o6Q _0yZ6Qg" style="writing-mode: horizontal-tb; width: 972.2px; height: 101.608px; transform: scale(1, 1); transform-origin: 0px 0px;"><div lang="zh-TW" class="AdBbhQ hGbcYA rLWGlw _7rUwsA" style="transform: translate(-2.13333px, 12.8px);"><p class="cgHgbA pYZEjA Xp24Nw PanoWQ" style="font-family: &quot;YAFMvoyOM6E 0&quot;, auto; --cAuMqQ: 85.3333px; color: rgb(0, 0, 0); line-height: 76px; letter-spacing: -0.05em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;"><span class="OYPEnA" style="font-size: 1em; font-weight: 400; font-style: normal; color: rgb(0, 0, 0); font-kerning: none; text-decoration: none;">Co-founder</span></p></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 251.775px; height: 277.548px; transform: translate(489.028px, 258.433px) scale(1.00002, 1.00002);"><div style="width: 251.775px; height: 277.548px; transform: scale(1, 1); transform-origin: 0px 0px;"><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 219.664px; height: 219.663px; transform: translate(32.1112px, -5.68434e-14px);"><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 219.663px; width: 219.664px; transform: scale(1);"><div class="hWv4NA" style="width: 219.664px; height: 219.663px; margin-left: 0px; margin-top: 0px;"><svg class="_7KaXww"><defs><clipPath id="__id30"><path d="M528.0021120084481,264.00316801267206C528.0021120084481,409.8003912015648 409.80250321001284,528 264.00105600422404,528C118.19749678998717,528 0,409.8003912015648 0,264.00316801267206C0,118.19855279421118 118.19749678998717,0 264.00105600422404,0C409.8046152184609,0 528.0021120084481,118.19855279421118 528.0021120084481,264.00316801267206Z"></path></clipPath></defs></svg><div class="bFnJ2A" style="clip-path: url(&quot;#__id30&quot;); transform: scale(0.416028, 0.416028); transform-origin: 0px 0px; width: 528.002px; height: 528px;"><div class="_4c2rDg GxUsfw" style="transform-origin: 264.001px 264px;"><div class="qhHTGg" style="width: 937.728px; height: 528px; transform: translate(-204.863px, 0px) translate(468.864px, 264px) rotate(0deg) translate(-468.864px, -264px); transform-origin: 0px 0px;"><img class="_7_i_XA" crossorigin="anonymous" src="https://pineapple.brianzuo1.workers.dev/_assets/media/4d530dd4c8f6d029391ef1a7ea61466a.jpg" draggable="false"></div></div></div></div><div class="Pr6LEA"></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 248.059px; height: 25.0649px; transform: translate(-8.52651e-14px, 234.747px);"><div class="aF9o6Q _0yZ6Qg" style="writing-mode: horizontal-tb; width: 338.467px; height: 34.2001px; transform: scale(0.73289, 0.73289); transform-origin: 0px 0px;"><div lang="zh-TW" class="AdBbhQ hGbcYA rLWGlw _7rUwsA" style="transform: translate(1.04133px, -4.39996px);"><p class="cgHgbA pYZEjA Xp24Nw PanoWQ" style="font-family: &quot;YAFMvoyOM6E 0&quot;, auto; --cAuMqQ: 29.3331px; color: rgb(0, 0, 0); line-height: 43px; letter-spacing: 0.071em; --pY_8zA: 0; text-transform: uppercase; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;"><span class="OYPEnA" style="font-size: 1em; font-weight: 700; font-style: normal; color: rgb(0, 0, 0); font-kerning: none; text-decoration: none;">Ivan door</span></p></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 248.059px; height: 25.0649px; transform: translate(1.42109e-13px, 252.483px);"><div class="aF9o6Q _0yZ6Qg" style="writing-mode: horizontal-tb; width: 338.467px; height: 34.2001px; transform: scale(0.73289, 0.73289); transform-origin: 0px 0px;"><div lang="zh-TW" class="AdBbhQ hGbcYA rLWGlw _7rUwsA" style="transform: translate(0px, -4.39996px);"><p class="cgHgbA pYZEjA Xp24Nw PanoWQ" style="font-family: &quot;YAFMvoyOM6E 0&quot;, auto; --cAuMqQ: 29.3331px; color: rgb(0, 0, 0); line-height: 43px; letter-spacing: 0em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;"><span class="OYPEnA" style="font-size: 1em; font-weight: 400; font-style: normal; color: rgb(0, 0, 0); font-kerning: none; text-decoration: none;">CFO</span></p></div></div></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 275.141px; height: 305.814px; transform: translate(719.621px, -0.00161307px) scale(1.00002, 1.00002);"><div style="width: 275.141px; height: 305.814px; transform: scale(1, 1); transform-origin: 0px 0px;"><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 243.645px; height: 243.644px; transform: translate(25.6824px, -2.84217e-14px);"><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 243.644px; width: 243.645px; transform: scale(1);"><div class="hWv4NA" style="width: 243.645px; height: 243.644px; margin-left: 0px; margin-top: 0px;"><svg class="_7KaXww"><defs><clipPath id="__id31"><path d="M528.0021120084481,264.00316801267206C528.0021120084481,409.8003912015648 409.80250321001284,528 264.00105600422404,528C118.19749678998717,528 0,409.8003912015648 0,264.00316801267206C0,118.19855279421118 118.19749678998717,0 264.00105600422404,0C409.8046152184609,0 528.0021120084481,118.19855279421118 528.0021120084481,264.00316801267206Z"></path></clipPath></defs></svg><div class="bFnJ2A" style="clip-path: url(&quot;#__id31&quot;); transform: scale(0.461448, 0.461448); transform-origin: 0px 0px; width: 528.002px; height: 528px;"><div class="_4c2rDg GxUsfw" style="transform-origin: 264.001px 264px;"><div class="qhHTGg" style="width: 942.857px; height: 528px; transform: translate(-207.428px, 0px) translate(471.429px, 264px) rotate(0deg) translate(-471.429px, -264px); transform-origin: 0px 0px;"><img class="_7_i_XA" crossorigin="anonymous" src="https://pineapple.brianzuo1.workers.dev/_assets/media/19ffbfb24718519b5e18811c7421281d.jpg" draggable="false"></div></div></div></div><div class="Pr6LEA"></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 275.141px; height: 27.8023px; transform: translate(0px, 258.34px);"><div class="aF9o6Q _0yZ6Qg" style="writing-mode: horizontal-tb; width: 338.467px; height: 34.2012px; transform: scale(0.812903, 0.812903); transform-origin: 0px 0px;"><div lang="zh-TW" class="AdBbhQ hGbcYA rLWGlw _7rUwsA" style="transform: translate(1.04133px, -4.39996px);"><p class="cgHgbA pYZEjA Xp24Nw PanoWQ" style="font-family: &quot;YAFMvoyOM6E 0&quot;, auto; --cAuMqQ: 29.3331px; color: rgb(0, 0, 0); line-height: 43px; letter-spacing: 0.071em; --pY_8zA: 0; text-transform: uppercase; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;"><span class="OYPEnA" style="font-size: 1em; font-weight: 700; font-style: normal; color: rgb(0, 0, 0); font-kerning: none; text-decoration: none;">Brian zuo</span></p></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 275.141px; height: 27.8014px; transform: translate(0px, 278.012px);"><div class="aF9o6Q _0yZ6Qg" style="writing-mode: horizontal-tb; width: 338.467px; height: 34.2001px; transform: scale(0.812903, 0.812903); transform-origin: 0px 0px;"><div lang="zh-TW" class="AdBbhQ hGbcYA rLWGlw _7rUwsA" style="transform: translate(0px, -4.39996px);"><p class="cgHgbA pYZEjA Xp24Nw PanoWQ" style="font-family: &quot;YAFMvoyOM6E 0&quot;, auto; --cAuMqQ: 29.3331px; color: rgb(0, 0, 0); line-height: 43px; letter-spacing: 0em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;"><span class="OYPEnA" style="font-size: 1em; font-weight: 400; font-style: normal; color: rgb(0, 0, 0); font-kerning: none; text-decoration: none;">CTO</span></p></div></div></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 237.997px; height: 266.29px; transform: translate(995.571px, 264.062px) scale(1.00002, 1.00002);"><div style="width: 237.997px; height: 266.29px; transform: scale(1, 1); transform-origin: 0px 0px;"><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 210.753px; height: 210.752px; transform: translate(13.622px, 2.84217e-14px);"><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 210.752px; width: 210.753px; transform: scale(1);"><div class="hWv4NA" style="width: 210.753px; height: 210.752px; margin-left: 0px; margin-top: 0px;"><svg class="_7KaXww"><defs><clipPath id="__id32"><path d="M528.0021120084481,264.00316801267206C528.0021120084481,409.8003912015648 409.80250321001284,528 264.00105600422404,528C118.19749678998717,528 0,409.8003912015648 0,264.00316801267206C0,118.19855279421118 118.19749678998717,0 264.00105600422404,0C409.8046152184609,0 528.0021120084481,118.19855279421118 528.0021120084481,264.00316801267206Z"></path></clipPath></defs></svg><div class="bFnJ2A" style="clip-path: url(&quot;#__id32&quot;); transform: scale(0.399152, 0.399152); transform-origin: 0px 0px; width: 528.002px; height: 528px;"><div class="_4c2rDg GxUsfw" style="transform-origin: 264.001px 264px;"><div class="qhHTGg" style="width: 722.051px; height: 528px; transform: translate(-97.0246px, 0px) translate(361.026px, 264px) rotate(0deg) translate(-361.026px, -264px); transform-origin: 0px 0px;"><img class="_7_i_XA" crossorigin="anonymous" src="https://pineapple.brianzuo1.workers.dev/_assets/media/8e6ed1b10e5e3012dd470fa8aac988b9.png" draggable="false"></div></div></div></div><div class="Pr6LEA"></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 237.997px; height: 24.049px; transform: translate(-1.84741e-13px, 225.224px);"><div class="aF9o6Q _0yZ6Qg" style="writing-mode: horizontal-tb; width: 338.467px; height: 34.2012px; transform: scale(0.703161, 0.703161); transform-origin: 0px 0px;"><div lang="zh-TW" class="AdBbhQ hGbcYA rLWGlw _7rUwsA" style="transform: translate(1.04133px, -4.39996px);"><p class="cgHgbA pYZEjA Xp24Nw PanoWQ" style="font-family: &quot;YAFMvoyOM6E 0&quot;, auto; --cAuMqQ: 29.3331px; color: rgb(0, 0, 0); line-height: 43px; letter-spacing: 0.071em; --pY_8zA: 0; text-transform: uppercase; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;"><span class="OYPEnA" style="font-size: 1em; font-weight: 700; font-style: normal; color: rgb(0, 0, 0); font-kerning: none; text-decoration: none;">Jason Yu</span></p></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 237.997px; height: 24.049px; transform: translate(4.26326e-14px, 242.241px);"><div class="aF9o6Q _0yZ6Qg" style="writing-mode: horizontal-tb; width: 338.467px; height: 34.2012px; transform: scale(0.703161, 0.703161); transform-origin: 0px 0px;"><div lang="zh-TW" class="AdBbhQ hGbcYA rLWGlw _7rUwsA" style="transform: translate(0px, -4.39996px);"><p class="cgHgbA pYZEjA Xp24Nw PanoWQ" style="font-family: &quot;YAFMvoyOM6E 0&quot;, auto; --cAuMqQ: 29.3331px; color: rgb(0, 0, 0); line-height: 43px; letter-spacing: 0em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;"><span class="OYPEnA" style="font-size: 1em; font-weight: 400; font-style: normal; color: rgb(0, 0, 0); font-kerning: none; text-decoration: none;">CKO</span></p></div></div></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 274.126px; height: 306.713px; transform: translate(231.81px, 535.982px) scale(1.00002, 1.00002);"><div style="width: 274.126px; height: 306.713px; transform: scale(1, 1); transform-origin: 0px 0px;"><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 242.746px; height: 242.745px; transform: translate(15.6898px, -5.68434e-14px);"><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 242.745px; width: 242.746px; transform: scale(1);"><div class="hWv4NA" style="width: 242.746px; height: 242.745px; margin-left: 0px; margin-top: 0px;"><svg class="_7KaXww"><defs><clipPath id="__id33"><path d="M528.0021120084481,264.00316801267206C528.0021120084481,409.8003912015648 409.80250321001284,528 264.00105600422404,528C118.19749678998717,528 0,409.8003912015648 0,264.00316801267206C0,118.19855279421118 118.19749678998717,0 264.00105600422404,0C409.8046152184609,0 528.0021120084481,118.19855279421118 528.0021120084481,264.00316801267206Z"></path></clipPath></defs></svg><div class="bFnJ2A" style="clip-path: url(&quot;#__id33&quot;); transform: scale(0.459745, 0.459745); transform-origin: 0px 0px; width: 528.002px; height: 528px;"><div class="_4c2rDg GxUsfw" style="transform-origin: 264.001px 264px;"><div class="qhHTGg" style="width: 880px; height: 528px; transform: translate(-175.999px, 0px) translate(440px, 264px) rotate(0deg) translate(-440px, -264px); transform-origin: 0px 0px;"><img class="_7_i_XA" crossorigin="anonymous" src="https://pineapple.brianzuo1.workers.dev/_assets/media/098ae112c57aac79957bbd9c4efcc216.jpg" draggable="false"></div></div></div></div><div class="Pr6LEA"></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 274.126px; height: 27.6987px; transform: translate(0px, 259.414px);"><div class="aF9o6Q _0yZ6Qg" style="writing-mode: horizontal-tb; width: 338.467px; height: 34.2001px; transform: scale(0.809903, 0.809903); transform-origin: 0px 0px;"><div lang="zh-TW" class="AdBbhQ hGbcYA rLWGlw _7rUwsA" style="transform: translate(1.04133px, -4.39996px);"><p class="cgHgbA pYZEjA Xp24Nw PanoWQ" style="font-family: &quot;YAFMvoyOM6E 0&quot;, auto; --cAuMqQ: 29.3331px; color: rgb(0, 0, 0); line-height: 43px; letter-spacing: 0.071em; --pY_8zA: 0; text-transform: uppercase; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;"><span class="OYPEnA" style="font-size: 1em; font-weight: 700; font-style: normal; color: rgb(0, 0, 0); font-kerning: none; text-decoration: none;">andy</span></p></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 274.126px; height: 27.6987px; transform: translate(1.13687e-13px, 279.014px);"><div class="aF9o6Q _0yZ6Qg" style="writing-mode: horizontal-tb; width: 338.467px; height: 34.2001px; transform: scale(0.809903, 0.809903); transform-origin: 0px 0px;"><div lang="zh-TW" class="AdBbhQ hGbcYA rLWGlw _7rUwsA" style="transform: translate(0px, -4.39996px);"><p class="cgHgbA pYZEjA Xp24Nw PanoWQ" style="font-family: &quot;YAFMvoyOM6E 0&quot;, auto; --cAuMqQ: 29.3331px; color: rgb(0, 0, 0); line-height: 43px; letter-spacing: 0em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;"><span class="OYPEnA" style="font-size: 1em; font-weight: 400; font-style: normal; color: rgb(0, 0, 0); font-kerning: none; text-decoration: none;">UFO</span></p></div></div></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 275.95px; height: 306.714px; transform: translate(719.621px, 534.828px) scale(1.00002, 1.00002);"><div style="width: 275.95px; height: 306.714px; transform: scale(1, 1); transform-origin: 0px 0px;"><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 244.361px; height: 244.361px; transform: translate(15.7942px, -4.26326e-14px);"><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 244.361px; width: 244.361px; transform: scale(1);"><div class="hWv4NA" style="width: 244.361px; height: 244.361px; margin-left: 0px; margin-top: 0px;"><svg class="_7KaXww"><defs><clipPath id="__id34"><path d="M528.0021120084481,264.00316801267206C528.0021120084481,409.8003912015648 409.80250321001284,528 264.00105600422404,528C118.19749678998717,528 0,409.8003912015648 0,264.00316801267206C0,118.19855279421118 118.19749678998717,0 264.00105600422404,0C409.8046152184609,0 528.0021120084481,118.19855279421118 528.0021120084481,264.00316801267206Z"></path></clipPath></defs></svg><div class="bFnJ2A" style="clip-path: url(&quot;#__id34&quot;); transform: scale(0.462804, 0.462804); transform-origin: 0px 0px; width: 528.002px; height: 528px;"><div class="_4c2rDg GxUsfw" style="transform-origin: 264.001px 264px;"><div class="qhHTGg" style="width: 942.857px; height: 528px; transform: translate(-207.428px, 5.68434e-14px) translate(471.429px, 264px) rotate(0deg) translate(-471.429px, -264px); transform-origin: 0px 0px;"><img class="_7_i_XA" crossorigin="anonymous" src="https://pineapple.brianzuo1.workers.dev/_assets/media/e378d808d335ced05c7a9d2ea44d7d01.jpg" draggable="false"></div></div></div></div><div class="Pr6LEA"></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 275.95px; height: 27.884px; transform: translate(-1.42109e-13px, 259.1px);"><div class="aF9o6Q _0yZ6Qg" style="writing-mode: horizontal-tb; width: 338.467px; height: 34.2012px; transform: scale(0.815293, 0.815293); transform-origin: 0px 0px;"><div lang="zh-TW" class="AdBbhQ hGbcYA rLWGlw _7rUwsA" style="transform: translate(1.04133px, -4.39996px);"><p class="cgHgbA pYZEjA Xp24Nw PanoWQ" style="font-family: &quot;YAFMvoyOM6E 0&quot;, auto; --cAuMqQ: 29.3331px; color: rgb(0, 0, 0); line-height: 43px; letter-spacing: 0.071em; --pY_8zA: 0; text-transform: uppercase; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;"><span class="OYPEnA" style="font-size: 1em; font-weight: 700; font-style: normal; color: rgb(0, 0, 0); font-kerning: none; text-decoration: none;">Upon</span></p></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 275.95px; height: 27.884px; transform: translate(8.52651e-14px, 278.83px);"><div class="aF9o6Q _0yZ6Qg" style="writing-mode: horizontal-tb; width: 338.467px; height: 34.2012px; transform: scale(0.815293, 0.815293); transform-origin: 0px 0px;"><div lang="zh-TW" class="AdBbhQ hGbcYA rLWGlw _7rUwsA" style="transform: translate(0px, -4.39996px);"><p class="cgHgbA pYZEjA Xp24Nw PanoWQ" style="font-family: &quot;YAFMvoyOM6E 0&quot;, auto; --cAuMqQ: 29.3331px; color: rgb(0, 0, 0); line-height: 43px; letter-spacing: 0em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;"><span class="OYPEnA" style="font-size: 1em; font-weight: 400; font-style: normal; color: rgb(0, 0, 0); font-kerning: none; text-decoration: none;">CEO</span></p></div></div></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 273.094px; height: 305.559px; transform: translate(1181.71px, 530.353px) scale(1.00002, 1.00002);"><div style="width: 273.094px; height: 305.559px; transform: scale(1, 1); transform-origin: 0px 0px;"><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 241.833px; height: 241.832px; transform: translate(15.6308px, 2.84217e-14px);"><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 241.832px; width: 241.833px; transform: scale(1);"><div class="hWv4NA" style="width: 241.833px; height: 241.832px; margin-left: 0px; margin-top: 0px;"><svg class="_7KaXww"><defs><clipPath id="__id35"><path d="M528.0021120084481,264.00316801267206C528.0021120084481,409.8003912015648 409.80250321001284,528 264.00105600422404,528C118.19749678998717,528 0,409.8003912015648 0,264.00316801267206C0,118.19855279421118 118.19749678998717,0 264.00105600422404,0C409.8046152184609,0 528.0021120084481,118.19855279421118 528.0021120084481,264.00316801267206Z"></path></clipPath></defs></svg><div class="bFnJ2A" style="clip-path: url(&quot;#__id35&quot;); transform: scale(0.458015, 0.458015); transform-origin: 0px 0px; width: 528.002px; height: 528px;"><div class="_4c2rDg GxUsfw" style="transform-origin: 264.001px 264px;"><div class="qhHTGg" style="width: 528.002px; height: 653.111px; transform: translate(0px, -62.5555px) translate(264.001px, 326.556px) rotate(0deg) translate(-264.001px, -326.556px); transform-origin: 0px 0px;"><img class="_7_i_XA" crossorigin="anonymous" src="https://pineapple.brianzuo1.workers.dev/_assets/media/b3c4df5e4ead57cc10f85c486e755021.jpg" draggable="false"></div></div></div></div><div class="Pr6LEA"></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 273.094px; height: 27.5945px; transform: translate(-2.84217e-14px, 258.438px);"><div class="aF9o6Q _0yZ6Qg" style="writing-mode: horizontal-tb; width: 338.467px; height: 34.2001px; transform: scale(0.806856, 0.806856); transform-origin: 0px 0px;"><div lang="zh-TW" class="AdBbhQ hGbcYA _7rUwsA" style="transform: translate(1.04133px, -4.39996px);"><p class="cgHgbA pYZEjA Xp24Nw PanoWQ" style="font-family: &quot;YAFMvoyOM6E 0&quot;, auto; --cAuMqQ: 29.3331px; color: rgb(0, 0, 0); line-height: 43px; letter-spacing: 0.071em; --pY_8zA: 0; text-transform: uppercase; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;"><span class="OYPEnA" style="font-size: 1em; font-weight: 700; font-style: normal; color: rgb(0, 0, 0); font-kerning: none; text-decoration: none;">Vincent van gogh</span></p></div></div></div><div class="DF_utQ _682gpw _0xkaeQ" style="touch-action: pan-x pan-y pinch-zoom; width: 273.094px; height: 27.5945px; transform: translate(4.26326e-13px, 277.964px);"><div class="aF9o6Q _0yZ6Qg" style="writing-mode: horizontal-tb; width: 338.467px; height: 34.2001px; transform: scale(0.806856, 0.806856); transform-origin: 0px 0px;"><div lang="zh-TW" class="AdBbhQ hGbcYA _7rUwsA" style="transform: translate(0px, -4.39996px);"><p class="cgHgbA pYZEjA Xp24Nw PanoWQ" style="font-family: &quot;YAFMvoyOM6E 0&quot;, auto; --cAuMqQ: 29.3331px; color: rgb(0, 0, 0); line-height: 43px; letter-spacing: 0em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;"><span class="OYPEnA" style="font-size: 1em; font-weight: 400; font-style: normal; color: rgb(0, 0, 0); font-kerning: none; text-decoration: none;">Art Director</span></p></div></div></div></div></div><div class="DF_utQ _682gpw" style="touch-action: pan-x pan-y pinch-zoom; width: 400.325px; height: 4px; transform: translate(193.528px, 98.6063px) rotate(0.286247deg) scale(1.00002, 1.00002);"><div class="V7MmMA" style="transform: scale(1); width: 400.325px; height: 4px;"><svg class="Fe_H_Q" style="stroke: rgb(0, 0, 0); fill: rgb(0, 0, 0); width: 400.325px; height: 4px;"><path d="M0,2L400.3253499633907,2" stroke-linecap="butt" stroke-width="4" fill="none" pointer-events="auto" opacity="0" class="_682gpw" style="touch-action: pan-x pan-y pinch-zoom;"></path><g><path d="M0,2L400.3253499633907,2" stroke-linecap="butt" stroke-width="4" fill="none" pointer-events="none"></path></g></svg></div></div></div></div></div><div class="QhExXw pKfnlA" style="width: 1716px; height: 862px; margin: 0px;"></div></div></div></div></div></div></div>
+这是我想替换原本部分页面的新代码，这虽然是html5格式的，但我希望你稍微转换下，改成融合javascript里面去，替换我原本的那部分代码，你可以利用之前原本那部分的图片填空到这部分新的代码里来，：<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Innovative Team Design</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    body {
+      background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+      min-height: 100vh;
+      padding: 50px 20px;
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    .header {
+      text-align: center;
+      margin-bottom: 60px;
+      position: relative;
+    }
+    
+    .header h1 {
+      font-size: 3.5rem;
+      font-weight: 700;
+      color: #333;
+      margin-bottom: 15px;
+      position: relative;
+      display: inline-block;
+    }
+    
+    .header h1::after {
+      content: "";
+      position: absolute;
+      bottom: -10px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 80px;
+      height: 4px;
+      background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%);
+      border-radius: 2px;
+    }
+    
+    .header p {
+      font-size: 1.2rem;
+      color: #666;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    
+    .team-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 40px;
+    }
+    
+    .team-member {
+      background: rgba(255, 255, 255, 0.9);
+      border-radius: 12px;
+      overflow: hidden;
+      transition: all 0.3s ease;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+      position: relative;
+    }
+    
+    .team-member:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+    }
+    
+    .team-member::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 6px;
+      background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%);
+    }
+    
+    .member-image {
+      width: 100%;
+      height: 0;
+      padding-bottom: 100%;
+      position: relative;
+      overflow: hidden;
+      background: #f0f0f0;
+    }
+    
+    .member-image img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.5s ease;
+    }
+    
+    .team-member:hover .member-image img {
+      transform: scale(1.05);
+    }
+    
+    .member-info {
+      padding: 20px;
+      text-align: center;
+    }
+    
+    .member-name {
+      font-size: 1.4rem;
+      font-weight: 600;
+      color: #333;
+      margin-bottom: 5px;
+    }
+    
+    .member-title {
+      font-size: 1rem;
+      color: #6a11cb;
+      font-weight: 500;
+      letter-spacing: 1px;
+    }
+    
+    .featured {
+      grid-column: span 2;
+      display: flex;
+      flex-direction: row;
+    }
+    
+    .featured .member-image {
+      width: 50%;
+      padding-bottom: 50%;
+    }
+    
+    .featured .member-info {
+      width: 50%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      text-align: left;
+      padding: 40px;
+    }
+    
+    .featured .member-name {
+      font-size: 2rem;
+    }
+    
+    .featured .member-title {
+      font-size: 1.2rem;
+      margin-bottom: 15px;
+    }
+    
+    .featured .member-bio {
+      font-size: 0.95rem;
+      color: #666;
+      line-height: 1.6;
+    }
+    
+    .accent-shape {
+      position: absolute;
+      z-index: -1;
+      opacity: 0.3;
+    }
+    
+    .shape1 {
+      top: 50px;
+      left: 5%;
+      width: 80px;
+      height: 80px;
+      border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+      background: #6a11cb;
+    }
+    
+    .shape2 {
+      bottom: 100px;
+      right: 10%;
+      width: 120px;
+      height: 120px;
+      border-radius: 63% 37% 54% 46% / 55% 48% 52% 45%;
+      background: #2575fc;
+    }
+    
+    @media (max-width: 768px) {
+      .team-grid {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      }
+      
+      .featured {
+        grid-column: span 1;
+        flex-direction: column;
+      }
+      
+      .featured .member-image {
+        width: 100%;
+        padding-bottom: 100%;
+      }
+      
+      .featured .member-info {
+        width: 100%;
+        text-align: center;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Our Team</h1>
+      <p>Meet the talented individuals behind our innovative solutions</p>
+    </div>
+    
+    <div class="team-grid">
+      <div class="team-member featured">
+        <div class="member-image">
+          <img src="/api/placeholder/400/400" alt="Team Member">
+        </div>
+        <div class="member-info">
+          <h2 class="member-name">Brian Zuo</h2>
+          <div class="member-title">Co-founder & CTO</div>
+          <p class="member-bio">Leading our technical innovations with over 10 years of experience in developing cutting-edge solutions across multiple industries.</p>
+        </div>
+      </div>
+      
+      <div class="team-member">
+        <div class="member-image">
+          <img src="/api/placeholder/300/300" alt="Team Member">
+        </div>
+        <div class="member-info">
+          <h2 class="member-name">Ivan Door</h2>
+          <div class="member-title">CFO</div>
+        </div>
+      </div>
+      
+      <div class="team-member">
+        <div class="member-image">
+          <img src="/api/placeholder/300/300" alt="Team Member">
+        </div>
+        <div class="member-info">
+          <h2 class="member-name">Jason Yu</h2>
+          <div class="member-title">CRO</div>
+        </div>
+      </div>
+      
+      <div class="team-member">
+        <div class="member-image">
+          <img src="/api/placeholder/300/300" alt="Team Member">
+        </div>
+        <div class="member-info">
+          <h2 class="member-name">Andy</h2>
+          <div class="member-title">UFO</div>
+        </div>
+      </div>
+      
+      <div class="team-member">
+        <div class="member-image">
+          <img src="/api/placeholder/300/300" alt="Team Member">
+        </div>
+        <div class="member-info">
+          <h2 class="member-name">Upon</h2>
+          <div class="member-title">CEO</div>
+        </div>
+      </div>
+      
+      <div class="team-member">
+        <div class="member-image">
+          <img src="/api/placeholder/300/300" alt="Team Member">
+        </div>
+        <div class="member-info">
+          <h2 class="member-name">Vincent Van Gogh</h2>
+          <div class="member-title">Art Director</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="accent-shape shape1"></div>
+  <div class="accent-shape shape2"></div>
+</body>
+</html>
+这是一整个javascript代码，用来最后替换那部分页面等功能的，你需要最后提供一个完整的javascript代码，在这上面改，融合我之前说的所有功能，当然你可以删去一些冲突重复或者优化其中的代码：
+// 量子粒子特效动画
+(function() {
+  // 添加favicon替换功能
+  function changeFavicon() {
+    // 查找现有的favicon（特定匹配您提到的link标签）
+    let existingFavicon = document.querySelector('link[rel="shortcut icon"]');
+    
+    // 如果找到现有favicon，就更改它的href
+    if (existingFavicon) {
+      existingFavicon.href = 'https://bt.brianzuo.me/down/U5aDs5iSoXS3.ico';
+    } 
+    // 如果没有找到，就创建一个新的favicon元素
+    else {
+      let newFavicon = document.createElement('link');
+      newFavicon.rel = 'shortcut icon';
+      newFavicon.href = 'https://bt.brianzuo.me/down/U5aDs5iSoXS3.ico';
+      document.head.appendChild(newFavicon);
+    }
+  }
+  
+  // 立即执行favicon替换
+  changeFavicon();
+  
+  // 创建画布元素
+  const canvas = document.createElement('canvas');
+  const ctx = canvas.getContext('2d');
+  // 设置画布为全屏
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+  // 添加样式
+  canvas.style.position = 'fixed';
+  canvas.style.top = '0';
+  canvas.style.left = '0';
+  canvas.style.zIndex = '999';
+  canvas.style.pointerEvents = 'auto';
+  // 创建一个遮罩层防止用户操作
+  const blocker = document.createElement('div');
+  blocker.style.position = 'fixed';
+  blocker.style.top = '0';
+  blocker.style.left = '0';
+  blocker.style.width = '100%';
+  blocker.style.height = '100%';
+  blocker.style.zIndex = '998';
+  blocker.style.backgroundColor = 'transparent';
+  // 添加到页面
+  document.body.appendChild(canvas);
+  document.body.appendChild(blocker);
+  // 禁止滚动
+  const originalStyle = document.body.style.cssText;
+  document.body.style.overflow = 'hidden';
+  // 粒子系统
+  const particles = [];
+  const colors = ['#FF9AA2', '#FFB7B2', '#FFDAC1', '#E2F0CB', '#B5EAD7', '#C7CEEA', '#FF6B6B', '#4ECDC4', '#F7FFF7'];
+  // 目标位置 - 树的位置 (假设在屏幕中央)
+  const treePosition = { x: canvas.width / 2, y: canvas.height / 2 };
+  // 记录鼠标位置
+  let mousePosition = { x: canvas.width / 4, y: canvas.height / 4 };
+  // 监听鼠标移动
+  document.addEventListener('mousemove', function(event) {
+    mousePosition.x = event.clientX;
+    mousePosition.y = event.clientY;
+  });
+  
+  // 添加双击监听器，直接跳转到收缩动画
+  canvas.addEventListener('dblclick', function() {
+    // 只有在还没开始收缩时才响应
+    if (!isSqueezing) {
+      // 设置所有必要的状态变量
+      superStarExploded = true;
+      explosionTime = 0; // 设置为0确保我们立即开始收缩
+      squeezeStartTime = performance.now();
+      isSqueezing = true;
+    }
+  });
+  
+  // 根据鼠标位置计算超级星星生成位置 - 修改为屏幕外
+  function calculateSuperStarPosition() {
+    // 计算从树到鼠标的向量
+    const vectorX = mousePosition.x - treePosition.x;
+    const vectorY = mousePosition.y - treePosition.y;
+    // 计算向量长度
+    const length = Math.sqrt(vectorX * vectorX + vectorY * vectorY);
+    // 标准化向量
+    const normalizedX = vectorX / length;
+    const normalizedY = vectorY / length;
+    // 根据向量方向，计算边缘位置
+    // 计算边界到中心点的距离因子
+    let factor;
+    if (Math.abs(normalizedX) > Math.abs(normalizedY)) {
+      // 水平方向距离更远
+      factor = normalizedX > 0 ? (canvas.width - treePosition.x) / normalizedX : -treePosition.x / normalizedX;
+    } else {
+      // 垂直方向距离更远
+      factor = normalizedY > 0 ? (canvas.height - treePosition.y) / normalizedY : -treePosition.y / normalizedY;
+    }
+    // 应用因子，得到屏幕外的位置（比屏幕边缘再远20%）
+    return {
+      x: treePosition.x + normalizedX * factor * 1.2, // 1.2表示比边缘再远20%
+      y: treePosition.y + normalizedY * factor * 1.2
+    };
+  }
+  // 创建粒子
+  function createParticle(isSuperStar = false) {
+    // 根据粒子类型决定起始位置
+    let startPos;
+    if (isSuperStar) {
+      // 超级星星从鼠标方向的屏幕外开始
+      startPos = calculateSuperStarPosition();
+    } else {
+      // 普通星星从边缘开始
+      const directions = [
+        { x: 0, y: Math.random() * canvas.height }, // 左边
+        { x: canvas.width, y: Math.random() * canvas.height }, // 右边
+        { x: Math.random() * canvas.width, y: 0 }, // 顶部
+        { x: Math.random() * canvas.width, y: canvas.height } // 底部
+      ];
+      startPos = directions[Math.floor(Math.random() * directions.length)];
+    }
+    // 所有粒子都直接指向树位置（不添加随机偏移）
+    let targetX = treePosition.x;
+    let targetY = treePosition.y;
+    const angle = Math.atan2(targetY - startPos.y, targetX - startPos.x);
+    // 只给普通星星非常小的随机偏移，强化黑洞效果
+    const randomAngle = isSuperStar ? angle : angle + (Math.random() - 0.5) * 0.2;
+    // 粒子属性
+    const size = isSuperStar ? 25 : Math.random() * 5 + 2;
+    // 降低普通星星的初始速度
+    const initialSpeedFactor = isSuperStar ? 0.8 : 0.5; // 小星星初始速度降低到0.5
+    return {
+      x: startPos.x,
+      y: startPos.y,
+      size: size,
+      color: isSuperStar ? '#FFFFFF' : colors[Math.floor(Math.random() * colors.length)],
+      speedX: Math.cos(randomAngle) * initialSpeedFactor, // 降低初始速度
+      speedY: Math.sin(randomAngle) * initialSpeedFactor, // 降低初始速度
+      maxSpeedX: Math.cos(randomAngle) * (isSuperStar ? 8 : (Math.random() * 3 + 2)), // 最大速度
+      maxSpeedY: Math.sin(randomAngle) * (isSuperStar ? 8 : (Math.random() * 3 + 2)), // 最大速度
+      trail: [],
+      trailLength: isSuperStar ? 20 : Math.floor(Math.random() * 15) + 5,
+      life: 1, // 生命值，用于淡出效果
+      hasHitTree: false,
+      rotationSpeed: (Math.random() - 0.5) * 0.2,
+      rotation: Math.random() * Math.PI * 2,
+      isSuperStar: isSuperStar, // 标记是否为超级星星
+      creationTime: animationTime, // 记录创建时间
+      acceleration: 0.001, // 更低的初始加速度 (从0.005降至0.001)
+      accelerationRate: isSuperStar ? 0.008 : 0.01, // 降低加速率
+      maxAcceleration: isSuperStar ? 1.2 : 1, // 最大加速度
+      // 为每个粒子添加随机的加速曲线参数
+      accelerationCurve: Math.random() * 0.5 + 2.0 // 2.0到2.5之间的随机值，更陡峭的曲线
+    };
+  }
+  // 绘制松树和菠萝 - 极简风格
+  function drawTree() {
+    // 在前三秒开始渐渐显示树
+    if (animationTime > 0) {
+      const alpha = Math.min(animationTime / 3000, 1);
+      ctx.save();
+      ctx.globalAlpha = alpha;
+      ctx.translate(treePosition.x, treePosition.y);
+      // 松树干 - 简化为直线
+      ctx.lineWidth = 10;
+      ctx.strokeStyle = '#8B4513';
+      ctx.beginPath();
+      ctx.moveTo(0, 0);
+      ctx.lineTo(0, -180);
+      ctx.stroke();
+      // 松树针叶 - 简化为三角形
+      const treeWidth = 140; // 更大的树宽度
+      const triangles = [
+        { y: -30, width: treeWidth, height: 50 },
+        { y: -80, width: treeWidth * 0.8, height: 50 },
+        { y: -130, width: treeWidth * 0.6, height: 50 }
+      ];
+      for (const t of triangles) {
+        ctx.fillStyle = '#2E8B57';
+        ctx.beginPath();
+        ctx.moveTo(-t.width/2, t.y);
+        ctx.lineTo(0, t.y - t.height);
+        ctx.lineTo(t.width/2, t.y);
+        ctx.fill();
+      }
+      // 简化的菠萝 - 主要菠萝
+      drawSimplePineapple(30, -100, 25, 35);
+      // 额外的小菠萝
+      drawSimplePineapple(-30, -70, 18, 25);
+      ctx.restore();
+    }
+  }
+  // 简化的菠萝绘制函数
+  function drawSimplePineapple(x, y, width, height) {
+    ctx.save();
+    ctx.translate(x, y);
+    // 菠萝主体 - 椭圆
+    ctx.fillStyle = '#FFC107';
+    ctx.beginPath();
+    ctx.ellipse(0, 0, width, height, 0, 0, Math.PI * 2);
+    ctx.fill();
+    // 菠萝纹理 - 简化为少量交叉线
+    ctx.strokeStyle = '#B76E00';
+    ctx.lineWidth = 1.5;
+    // 横向线条 (只画3条)
+    for (let i = 0; i < 3; i++) {
+      const yPos = -height/2 + i * height/2;
+      ctx.beginPath();
+      ctx.moveTo(-width, yPos);
+      ctx.lineTo(width, yPos);
+      ctx.stroke();
+    }
+    // 纵向线条 (只画4条)
+    for (let i = 0; i < 4; i++) {
+      const xPos = -width/2 + i * width/3;
+      ctx.beginPath();
+      ctx.moveTo(xPos, -height);
+      ctx.lineTo(xPos, height);
+      ctx.stroke();
+    }
+    // 菠萝顶部的简化叶子 - 只用3个三角形
+    ctx.fillStyle = '#4CAF50';
+    for (let i = 0; i < 3; i++) {
+      ctx.save();
+      ctx.rotate(i * Math.PI * 2 / 3);
+      ctx.beginPath();
+      ctx.moveTo(-5, -height);
+      ctx.lineTo(0, -height - 10);
+      ctx.lineTo(5, -height);
+      ctx.fill();
+      ctx.restore();
+    }
+    ctx.restore();
+  }
+  // 创建爆炸效果 - 修改版本，去掉闪烁效果
+  function createExplosion(x, y, color, particleCount = 150) {
+    const explosion = [];
+    for (let i = 0; i < particleCount; i++) {
+      const angle = Math.random() * Math.PI * 2;
+      const speed = Math.random() * 12 + 5;
+      explosion.push({
+        x: x,
+        y: y,
+        size: Math.random() * 5 + 2,
+        color: color || colors[Math.floor(Math.random() * colors.length)],
+        speedX: Math.cos(angle) * speed,
+        speedY: Math.sin(angle) * speed,
+        life: 1,
+        rotationSpeed: (Math.random() - 0.5) * 0.2,
+        rotation: Math.random() * Math.PI * 2,
+        decelerationRate: 0.96 + Math.random() * 0.02, // 更平缓的减速率
+        fadeSpeed: 0.01 + Math.random() * 0.005 // 非常平缓的淡出速度
+      });
+    }
+    return explosion;
+  }
+  
+  // 替换团队部分的函数
+  function replaceTeamSection() {
+    // 查找所有可能包含"Co-founder"文本的div
+    const allDivs = document.querySelectorAll('div');
+    
+    // 遍历所有div寻找包含"Co-founder"文本的
+    for (const div of allDivs) {
+      // 检查此div是否包含带有"Co-founder"文本的span
+      const founderspans = div.querySelectorAll('span');
+      let founderDivFound = false;
+      
+      for (const span of founderspans) {
+        if (span.textContent.includes('Co-founder') || span.innerHTML.includes('Co-founder')) {
+          founderDivFound = true;
+          break;
+        }
+      }
+      
+      // 如果找到包含"Co-founder"的div，用新HTML替换它
+      if (founderDivFound) {
+        // 获取图片路径的基本URL
+        const baseUrl = window.location.origin;
+        
+        // 保存原始图片以便复用
+        const originalImages = [];
+        const imgElements = div.querySelectorAll('img');
+        imgElements.forEach(img => {
+          originalImages.push(img.src);
+        });
+        
+        // 创建新的HTML内容
+        const newHTML = `
+        <div class="container">
+          <div class="header">
+            <h1>Our Team</h1>
+            <p>Meet the talented individuals behind our innovative solutions</p>
+          </div>
+          <div class="team-grid">
+            <div class="team-member featured">
+              <div class="member-image">
+                <img src="${originalImages[0] || baseUrl + '/api/placeholder/400/400'}" alt="Team Member">
+              </div>
+              <div class="member-info">
+                <h2 class="member-name">Brian Zuo</h2>
+                <div class="member-title">Co-founder & CTO</div>
+                <p class="member-bio">Leading our technical innovations with over 10 years of experience in developing cutting-edge solutions across multiple industries.</p>
+              </div>
+            </div>
+            <div class="team-member">
+              <div class="member-image">
+                <img src="${originalImages[1] || baseUrl + '/api/placeholder/300/300'}" alt="Team Member">
+              </div>
+              <div class="member-info">
+                <h2 class="member-name">Ivan Door</h2>
+                <div class="member-title">CFO</div>
+              </div>
+            </div>
+            <div class="team-member">
+              <div class="member-image">
+                <img src="${originalImages[2] || baseUrl + '/api/placeholder/300/300'}" alt="Team Member">
+              </div>
+              <div class="member-info">
+                <h2 class="member-name">Jason Yu</h2>
+                <div class="member-title">CRO</div>
+              </div>
+            </div>
+            <div class="team-member">
+              <div class="member-image">
+                <img src="${originalImages[3] || baseUrl + '/api/placeholder/300/300'}" alt="Team Member">
+              </div>
+              <div class="member-info">
+                <h2 class="member-name">Andy</h2>
+                <div class="member-title">UFO</div>
+              </div>
+            </div>
+            <div class="team-member">
+              <div class="member-image">
+                <img src="${originalImages[4] || baseUrl + '/api/placeholder/300/300'}" alt="Team Member">
+              </div>
+              <div class="member-info">
+                <h2 class="member-name">Upon</h2>
+                <div class="member-title">CEO</div>
+              </div>
+            </div>
+            <div class="team-member">
+              <div class="member-image">
+                <img src="${originalImages[5] || baseUrl + '/api/placeholder/300/300'}" alt="Team Member">
+              </div>
+              <div class="member-info">
+                <h2 class="member-name">Vincent Van Gogh</h2>
+                <div class="member-title">Art Director</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="accent-shape shape1"></div>
+        <div class="accent-shape shape2"></div>
+        `;
+        
+        // 应用样式
+        const styleElement = document.createElement('style');
+        styleElement.textContent = `
+          * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          }
+          body {
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+            padding: 50px 20px;
+          }
+          .container {
+            max-width: 1200px;
+            margin: 0 auto;
+          }
+          .header {
+            text-align: center;
+            margin-bottom: 60px;
+            position: relative;
+          }
+          .header h1 {
+            font-size: 3.5rem;
+            font-weight: 700;
+            color: #333;
+            margin-bottom: 15px;
+            position: relative;
+            display: inline-block;
+          }
+          .header h1::after {
+            content: "";
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80px;
+            height: 4px;
+            background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%);
+            border-radius: 2px;
+          }
+          .header p {
+            font-size: 1.2rem;
+            color: #666;
+            max-width: 600px;
+            margin: 0 auto;
+          }
+          .team-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 40px;
+          }
+          .team-member {
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 12px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+            position: relative;
+          }
+          .team-member:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+          }
+          .team-member::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 6px;
+            background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%);
+          }
+          .member-image {
+            width: 100%;
+            height: 0;
+            padding-bottom: 100%;
+            position: relative;
+            overflow: hidden;
+            background: #f0f0f0;
+          }
+          .member-image img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s ease;
+          }
+          .team-member:hover .member-image img {
+            transform: scale(1.05);
+          }
+          .member-info {
+            padding: 20px;
+            text-align: center;
+          }
+          .member-name {
+            font-size: 1.4rem;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 5px;
+          }
+          .member-title {
+            font-size: 1rem;
+            color: #6a11cb;
+            font-weight: 500;
+            letter-spacing: 1px;
+          }
+          .featured {
+            grid-column: span 2;
+            display: flex;
+            flex-direction: row;
+          }
+          .featured .member-image {
+            width: 50%;
+            padding-bottom: 50%;
+          }
+          .featured .member-info {
+            width: 50%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: left;
+            padding: 40px;
+          }
+          .featured .member-name {
+            font-size: 2rem;
+          }
+          .featured .member-title {
+            font-size: 1.2rem;
+            margin-bottom: 15px;
+          }
+          .featured .member-bio {
+            font-size: 0.95rem;
+            color: #666;
+            line-height: 1.6;
+          }
+          .accent-shape {
+            position: absolute;
+            z-index: -1;
+            opacity: 0.3;
+          }
+          .shape1 {
+            top: 50px;
+            left: 5%;
+            width: 80px;
+            height: 80px;
+            border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+            background: #6a11cb;
+          }
+          .shape2 {
+            bottom: 100px;
+            right: 10%;
+            width: 120px;
+            height: 120px;
+            border-radius: 63% 37% 54% 46% / 55% 48% 52% 45%;
+            background: #2575fc;
+          }
+          @media (max-width: 768px) {
+            .team-grid {
+              grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            }
+            .featured {
+              grid-column: span 1;
+              flex-direction: column;
+            }
+            .featured .member-image {
+              width: 100%;
+              padding-bottom: 100%;
+            }
+            .featured .member-info {
+              width: 100%;
+              text-align: center;
+            }
+          }
+        `;
+        
+        // 寻找适合替换的最近的父元素
+        let targetElement = div;
+        let parentDepth = 0;
+        const maxParentDepth = 3; // 不要在DOM树中走得太远
+        
+        while (parentDepth < maxParentDepth) {
+          const parent = targetElement.parentElement;
+          if (!parent || parent.tagName === 'BODY') break;
+          
+          // 如果这是一个类似容器的元素，使用它
+          if (parent.className.includes('container') || 
+              parent.className.includes('section') || 
+              parent.tagName === 'SECTION' ||
+              parent.id.includes('team')) {
+            targetElement = parent;
+            break;
+          }
+          
+          targetElement = parent;
+          parentDepth++;
+        }
+        
+        // 创建一个包装器用于新内容
+        const wrapper = document.createElement('div');
+        wrapper.className = 'team-section-replacement';
+        wrapper.innerHTML = newHTML;
+        
+        // 将样式添加到头部
+        document.head.appendChild(styleElement);
+        
+        // 用新内容替换元素
+        targetElement.parentNode.replaceChild(wrapper, targetElement);
+        
+        // 我们找到并替换了部分，无需继续
+        break;
+      }
+    }
+  }
+  
+  // 动画时间追踪
+  let animationTime = 0;
+  let lastTimestamp = 0;
+  const totalDuration = 8000; // 8秒主动画
+  const squeezeAndFadeDuration = 3000; // 3秒收缩并消失
+  let superStarCreated = false;
+  let superStarExploded = false;
+  let explosionParticles = [];
+  // 用于最终收缩效果的变量
+  let squeezeStartTime = 0;
+  let isSqueezing = false;
+  let frameCount = 0; // 用于性能优化
+  let explosionTime = 0; // 记录爆炸发生的时间
+  const explosionDelay = 1750; // 爆炸后1.75秒才开始收缩
+  // 预渲染星空背景以提高性能
+  const starfieldCanvas = document.createElement('canvas');
+  const starfieldCtx = starfieldCanvas.getContext('2d');
+  starfieldCanvas.width = canvas.width;
+  starfieldCanvas.height = canvas.height;
+  // 生成星空背景
+  function generateStarfield() {
+    starfieldCtx.fillStyle = '#000000';
+    starfieldCtx.fillRect(0, 0, starfieldCanvas.width, starfieldCanvas.height);
+    // 创建200个星星
+    for (let i = 0; i < 200; i++) {
+      const starSize = Math.random() * 2;
+      starfieldCtx.fillStyle = `rgba(255, 255, 255, ${Math.random() * 0.8})`;
+      starfieldCtx.fillRect(
+        Math.random() * starfieldCanvas.width,
+        Math.random() * starfieldCanvas.height,
+        starSize,
+        starSize
+      );
+    }
+  }
+  // 初始生成星空背景
+  generateStarfield();
+  // 动画循环
+  function animate(timestamp) {
+    if (!lastTimestamp) lastTimestamp = timestamp;
+    const deltaTime = timestamp - lastTimestamp;
+    lastTimestamp = timestamp;
+    animationTime += deltaTime;
+    frameCount++;
+    // 清除画布
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    // 根据动画阶段决定绘制方式
+    if (isSqueezing) {
+      // 收缩效果
+      const squeezeTime = timestamp - squeezeStartTime;
+      // 计算屏幕对角线长度
+      const screenDiagonal = Math.sqrt(canvas.width * canvas.width + canvas.height * canvas.height);
+      // 初始半径是对角线的1.5倍
+      const initialRadius = screenDiagonal * 1.5;
+      // 使用三次方曲线实现更平滑的非线性收缩
+      const progress = Math.min(Math.pow(squeezeTime / squeezeAndFadeDuration, 2), 1);
+      const radius = initialRadius * (1 - progress);
+      ctx.save();
+      // 设置剪裁区域为一个圆形
+      ctx.beginPath();
+      ctx.arc(canvas.width/2, canvas.height/2, radius, 0, Math.PI * 2);
+      ctx.clip();
+      // 在剪裁区域内绘制内容
+      drawAnimationFrame();
+      ctx.restore();
+      // 如果收缩完成，清理并退出
+      if (progress >= 1) {
+        document.body.removeChild(canvas);
+        document.body.removeChild(blocker);
+        document.body.style.cssText = originalStyle; // 恢复原始样式
+        // 在动画完成后替换团队部分
+        replaceTeamSection();
+        return;
+      }
+    } else {
+      // 正常动画渲染
+      drawAnimationFrame();
+      // 如果动画接近尾声但超级星星还未创建，创建它
+      if (animationTime > totalDuration * 0.7 && !superStarCreated) {
+        particles.push(createParticle(true)); // 创建超级星星
+        superStarCreated = true;
+      }
+      // 如果超级星星已经爆炸，记录时间并设置延迟收缩
+      if (superStarExploded && explosionTime === 0) {
+        explosionTime = timestamp;
+      }
+      // 使用延迟逻辑：等待爆炸后1.75秒才开始收缩
+      if (superStarExploded && timestamp - explosionTime > explosionDelay && !isSqueezing) {
+        squeezeStartTime = timestamp;
+        isSqueezing = true;
+      }
+    }
+    requestAnimationFrame(animate);
+  }
+  // 绘制动画帧内容
+  function drawAnimationFrame() {
+    // 使用预渲染的星空背景
+    ctx.drawImage(starfieldCanvas, 0, 0);
+    // 绘制树和菠萝
+    drawTree();
+    // 如果还在主动画阶段 - 修改为随时间增加小星星数量
+    if (animationTime < totalDuration) {
+      // 生成小星星 - 随时间增加生成率，从低到高
+      const baseRate = 0.2; // 基础生成率
+      const maxRate = 0.7; // 最大生成率
+      const timeProgress = Math.min(animationTime / (totalDuration * 0.7), 1); // 在前70%时间内增加
+      const currentRate = baseRate + timeProgress * (maxRate - baseRate); // 从baseRate到maxRate线性增加
+      if (Math.random() < currentRate) {
+        particles.push(createParticle());
+      }
+    }
+    // 处理爆炸粒子 - 平滑淡出，无闪烁
+    for (let i = explosionParticles.length - 1; i >= 0; i--) {
+      const p = explosionParticles[i];
+      // 更新粒子位置
+      p.x += p.speedX;
+      p.y += p.speedY;
+      // 平滑减少生命值和速度
+      p.life -= p.fadeSpeed; // 使用自定义非常缓慢的淡出速度
+      p.speedX *= p.decelerationRate;
+      p.speedY *= p.decelerationRate;
+      p.rotation += p.rotationSpeed;
+      // 绘制爆炸粒子 - 简单形状，避免复杂计算导致闪烁
+      ctx.save();
+      ctx.translate(p.x, p.y);
+      ctx.globalAlpha = p.life;
+      ctx.fillStyle = p.color;
+      // 使用简单的圆形，避免复杂形状可能导致的闪烁
+      ctx.beginPath();
+      ctx.arc(0, 0, p.size, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.restore();
+      // 移除生命值为0的粒子
+      if (p.life <= 0) {
+        explosionParticles.splice(i, 1);
+      }
+    }
+    // 更新和绘制粒子
+    for (let i = particles.length - 1; i >= 0; i--) {
+      const p = particles[i];
+      // 强化非线性加速，特别是小星星
+      if (!p.hasHitTree) {
+        if (p.isSuperStar) {
+          // 超级星星使用更慢的加速曲线
+          const lifetime = animationTime - p.creationTime;
+          const normalizedTime = Math.min(lifetime / 5000, 1); // 在5秒内逐渐达到全速
+          // 使用四次方曲线使加速更平滑
+          const accelerationFactor = Math.pow(normalizedTime, 4);
+          p.speedX = p.maxSpeedX * accelerationFactor;
+          p.speedY = p.maxSpeedY * accelerationFactor;
+        } else {
+          // 普通粒子的强化非线性加速
+          p.acceleration = Math.min(p.acceleration + p.accelerationRate, p.maxAcceleration);
+          // 使用个性化的加速曲线，更强的非线性效果
+          const accelerationFactor = Math.pow(p.acceleration, p.accelerationCurve);
+          p.speedX = p.maxSpeedX * accelerationFactor;
+          p.speedY = p.maxSpeedY * accelerationFactor;
+        }
+      }
+      // 更新粒子位置
+      p.x += p.speedX;
+      p.y += p.speedY;
+      // 添加到轨迹
+      p.trail.push({x: p.x, y: p.y, size: p.size, rotation: p.rotation});
+      if (p.trail.length > p.trailLength) {
+        p.trail.shift();
+      }
+      // 检测是否撞到树
+      const distToTree = Math.sqrt(Math.pow(p.x - treePosition.x, 2) + Math.pow(p.y - treePosition.y, 2));
+      if (distToTree < 70 && !p.hasHitTree) {
+        p.hasHitTree = true;
+        p.life = 0.9; // 开始淡出
+        // 如果是超级星星撞击，创建平滑爆炸效果
+        if (p.isSuperStar && !superStarExploded) {
+          superStarExploded = true;
+          // 创建多色爆炸效果
+          const explosionColors = ['#FF9AA2', '#FFB7B2', '#FFDAC1', '#E2F0CB', '#C7CEEA', '#FF6B6B', '#FFEB3B', '#00BCD4'];
+          for (let j = 0; j < explosionColors.length; j++) {
+            const newExplosion = createExplosion(p.x, p.y, explosionColors[j], 60);
+            explosionParticles.push(...newExplosion);
+          }
+          // 添加第二波延迟爆炸效果
+          setTimeout(() => {
+            for (let j = 0; j < 3; j++) {
+              const secondaryExplosion = createExplosion(
+                p.x + (Math.random() - 0.5) * 30,
+                p.y + (Math.random() - 0.5) * 30,
+                explosionColors[Math.floor(Math.random() * explosionColors.length)],
+                40
+              );
+              explosionParticles.push(...secondaryExplosion);
+            }
+          }, 200);
+        }
+      }
+      // 如果粒子已撞到树，减少生命值
+      if (p.hasHitTree) {
+        p.life -= 0.02;
+        p.speedX *= 0.95;
+        p.speedY *= 0.95;
+      }
+      // 更新旋转
+      p.rotation += p.rotationSpeed;
+      // 绘制粒子轨迹
+      for (let j = 0; j < p.trail.length; j++) {
+        const t = p.trail[j];
+        const alpha = (j / p.trail.length) * p.life;
+        ctx.save();
+        ctx.translate(t.x, t.y);
+        ctx.rotate(t.rotation);
+        ctx.globalAlpha = alpha;
+        if (p.isSuperStar) {
+          // 超级星星的绘制 - 带光芒的星星
+          ctx.fillStyle = 'white';
+          // 内部
+          ctx.beginPath();
+          ctx.arc(0, 0, t.size * 0.8, 0, Math.PI * 2);
+          ctx.fill();
+          // 星星光芒
+          if (j === p.trail.length - 1) {
+            // 只在最新位置添加光芒
+            // 绘制星星光芒
+            const spikes = 6;
+            const outerRadius = t.size * 1.5;
+            const innerRadius = t.size * 0.8;
+            ctx.beginPath();
+            for (let k = 0; k < spikes * 2; k++) {
+              const radius = k % 2 === 0 ? outerRadius : innerRadius;
+              const angle = (Math.PI * 2 * k) / (spikes * 2);
+              const x = Math.cos(angle) * radius;
+              const y = Math.sin(angle) * radius;
+              if (k === 0) {
+                ctx.moveTo(x, y);
+              } else {
+                ctx.lineTo(x, y);
+              }
+            }
+            ctx.closePath();
+            ctx.fill();
+          }
+        } else {
+          // 普通粒子 - 使用简单形状
+          ctx.fillStyle = p.color;
+          ctx.beginPath();
+          // 每三个粒子使用不同的形状，增加视觉多样性
+          const particleType = i % 3;
+          if (particleType === 0) {
+            // 圆形
+            ctx.arc(0, 0, t.size, 0, Math.PI * 2);
+          } else if (particleType === 1) {
+            // 简单的四角星
+            const spikes = 4;
+            const outerRadius = t.size;
+            const innerRadius = t.size / 2;
+            for (let k = 0; k < spikes * 2; k++) {
+              const radius = k % 2 === 0 ? outerRadius : innerRadius;
+              const angle = (Math.PI * 2 * k) / (spikes * 2);
+              const x = Math.cos(angle) * radius;
+              const y = Math.sin(angle) * radius;
+              if (k === 0) {
+                ctx.moveTo(x, y);
+              } else {
+                ctx.lineTo(x, y);
+              }
+            }
+            ctx.closePath();
+          } else {
+            // 菱形
+            ctx.moveTo(0, -t.size);
+            ctx.lineTo(t.size, 0);
+            ctx.lineTo(0, t.size);
+            ctx.lineTo(-t.size, 0);
+            ctx.closePath();
+          }
+          ctx.fill();
+          // 对于拖尾末端添加简单光芒
+          if (j === p.trail.length - 1 && t.size > 3) {
+            ctx.globalAlpha = alpha * 0.5;
+            for (let k = 0; k < 4; k++) {
+              const rayAngle = (Math.PI / 2) * k;
+              ctx.beginPath();
+              ctx.moveTo(0, 0);
+              ctx.lineTo(Math.cos(rayAngle) * t.size * 1.5, Math.sin(rayAngle) * t.size * 1.5);
+              ctx.lineWidth = t.size / 4;
+              ctx.strokeStyle = p.color;
+              ctx.stroke();
+            }
+          }
+        }
+        ctx.restore();
+      }
+      // 移除生命值为0的粒子
+      if (p.life <= 0) {
+        particles.splice(i, 1);
+      }
+    }
+  }
+  // 监听窗口大小变化
+  window.addEventListener('resize', function() {
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    treePosition.x = canvas.width / 2;
+    treePosition.y = canvas.height / 2;
+    // 重新生成星空背景
+    starfieldCanvas.width = canvas.width;
+    starfieldCanvas.height = canvas.height;
+    generateStarfield();
+  });
+  // 设置初始鼠标位置在屏幕左上角
+  mousePosition.x = canvas.width * 0.25;
+  mousePosition.y = canvas.height * 0.25;
+  // 启动动画
+  requestAnimationFrame(animate);
+})();
