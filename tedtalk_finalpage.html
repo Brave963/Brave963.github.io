@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Black Myth: Wukong - Conclusion</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Inter:wght@300;400&display=swap" rel="stylesheet">
+    <style>
+        /* 1. RESET & BASE */
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        
+        body {
+            background-color: #000;
+            display: grid;
+            place-items: center;
+            min-height: 100vh;
+            font-family: 'Inter', sans-serif;
+            overflow: hidden;
+        }
+
+        /* 2. SLIDE CONTAINER (16:9) */
+        .slide-container {
+            width: 1280px;
+            height: 720px;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 0 80px rgba(0,0,0,0.8);
+            background-color: #0a0a0a;
+        }
+
+        /* 3. BACKGROUND IMAGE */
+        .bg-image {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center 30%; 
+            opacity: 0.85;
+            transform: scale(1.05);
+            /* 慢动作缩放效果增加电影感 */
+            animation: slowPan 20s infinite alternate ease-in-out;
+        }
+
+        @keyframes slowPan {
+            from { transform: scale(1.05); }
+            to { transform: scale(1.12); }
+        }
+
+        /* 4. CINEMATIC OVERLAY */
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at center, transparent 0%, rgba(0,0,0,0.4) 50%, #000 100%),
+                        linear-gradient(to top, #000 10%, transparent 60%);
+            z-index: 2;
+        }
+
+        /* 5. CONTENT WRAPPER */
+        .content {
+            position: absolute;
+            z-index: 3;
+            top: 45%; /* 稍微向上移动，为底部的名字留出空间 */
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            width: 80%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        /* 6. TYPOGRAPHY & EFFECTS */
+        .sub-text {
+            font-family: 'Cinzel', serif;
+            font-size: 24px;
+            letter-spacing: 4px;
+            color: rgba(255, 255, 255, 0.7);
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            font-weight: 500;
+            opacity: 0;
+            animation: fadeIn 1.5s ease-out forwards 0.5s;
+        }
+
+        .main-title {
+            font-family: 'Cinzel', serif;
+            font-size: 82px;
+            line-height: 1.1;
+            font-weight: 700;
+            color: #fff;
+            text-transform: uppercase;
+            background: linear-gradient(to bottom, #fff 30%, #d4af37 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            filter: drop-shadow(0 0 20px rgba(212, 175, 55, 0.6));
+            margin-bottom: 40px;
+            opacity: 0;
+            animation: glowFadeIn 1.5s ease-out forwards 1s;
+        }
+
+        .highlight-line {
+            width: 100px;
+            height: 4px;
+            background: #d4af37;
+            border-radius: 2px;
+            box-shadow: 0 0 15px #d4af37;
+            margin-bottom: 40px;
+            opacity: 0;
+            animation: expandLine 1s ease-out forwards 1.8s;
+        }
+
+        .quote-text {
+            font-family: 'Inter', sans-serif;
+            font-size: 18px;
+            color: rgba(255, 255, 255, 0.8);
+            max-width: 600px;
+            line-height: 1.6;
+            font-style: italic;
+            opacity: 0;
+            animation: fadeIn 1.5s ease-out forwards 2.2s;
+        }
+
+        /* 7. CENTERED SIGNATURE */
+        .footer-sig {
+            position: absolute;
+            bottom: 60px;
+            width: 100%;
+            text-align: center;
+            z-index: 3;
+            opacity: 0;
+            animation: fadeIn 1.5s ease-out forwards 3s;
+        }
+
+        .name-main {
+            font-family: 'Cinzel', serif;
+            font-size: 32px;
+            color: #d4af37;
+            font-weight: 700;
+            letter-spacing: 3px;
+            margin-bottom: 8px;
+            text-shadow: 0 0 10px rgba(212, 175, 55, 0.5);
+        }
+
+        .role-title {
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.4);
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        /* 8. ANIMATIONS */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes glowFadeIn {
+            from { opacity: 0; transform: scale(0.95); filter: drop-shadow(0 0 0 rgba(212,175,55,0)); }
+            to { opacity: 1; transform: scale(1); filter: drop-shadow(0 0 30px rgba(212,175,55,0.8)); }
+        }
+
+        @keyframes expandLine {
+            from { width: 0; opacity: 0; }
+            to { width: 120px; opacity: 1; }
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="slide-container">
+        
+        <!-- 背景图：悟空意境  -->
+        <img src="http://googleusercontent.com/image_collection/image_retrieval/9922540386608201718" alt="Wukong Back View" class="bg-image">
+        
+        <!-- 遮罩层 -->
+        <div class="overlay"></div>
+
+        <!-- 核心内容区 -->
+        <div class="content">
+            <p class="sub-text">The staff is now in our hands</p>
+            <h1 class="main-title">What Story<br>Will YOU Tell?</h1>
+            <div class="highlight-line"></div>
+            <p class="quote-text">
+                "Be bold, be creative, and never be afraid to show the world the beauty of where you come from."
+            </p>
+        </div>
+
+        <!-- 居中署名区 -->
+        <div class="footer-sig">
+            <div class="name-main">Brian Zuo</div>
+            <div class="role-title">Student Representative of 4A</div>
+        </div>
+
+    </div>
+
+</body>
+</html>
